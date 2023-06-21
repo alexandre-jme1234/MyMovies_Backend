@@ -1,4 +1,4 @@
-import Home from '../components/Home';
+import Home from '../frontent/components/Home';
 
 function Index() {
   return <Home />;
